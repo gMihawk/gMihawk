@@ -1,20 +1,22 @@
-## 💡 Sobre Mim
+## About Me  
 
-Sou um desenvolvedor apaixonado por Minecraft, programação e modelagem 3D. Tenho experiência com YML e MySQL e atualmente estou aprendendo Java e JSON. Trabalho com modelagem 3D no Blockbench e desenvolvo servidores MMORPG no Minecraft sem mods.
+I am a developer passionate about **Minecraft**, **programming**, and **3D modeling**. I have experience with **YML** and **MySQL** and am currently learning **Java** and **JSON**. I work with **Blockbench** and develop **MMORPG servers in Minecraft** without mods.  
 
-## 🚀 Habilidades
+## Skills  
 
-- **Minecraft:** Desenvolvimento avançado de servidores RPG.
-- **Programação:** Experiência com YML, MySQL e aprendizado contínuo em Java e JSON.
-- **Modelagem 3D:** Criação de modelos detalhados no Blockbench.
-- **Plugins:** Utilização de ExecutableItems, placeholders e outras APIs para servidores.
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
+![YML](https://img.shields.io/badge/YML-000000?style=for-the-badge&logo=yaml&logoColor=white)  
+![Blockbench](https://img.shields.io/badge/Blockbench-000000?style=for-the-badge&logo=blockbench&logoColor=white)  
 
-## 📌 Projetos em Andamento
+## Projects  
 
-- 🎮 Desenvolvimento de um servidor MMORPG no Minecraft.
-- 🏗️ Criação de modelos 3D para itens, mobs e estruturas.
-- 🛠️ Implementação de habilidades e mecânicas customizadas.
+- **MMORPG Server Development** in Minecraft  
+- **3D Modeling** for items, mobs, and structures  
+- **Custom Mechanics** and advanced system implementations  
 
-## 📫 Contato
+## Contact  
 
-- **Discord:** [Seu Discord]
+- **GitHub:** [Your GitHub](#)  
+- **Discord:** [Your Discord](#)  
