@@ -13,7 +13,7 @@ I am Professional with **Minecraft**, **programming**, and **3D modeling**. I ha
 ## Projects  
 
 - Development of a server [Reinos Survival](https://github.com/Reinos-Studios/) MMORPG in Minecraft.
-- **Squid Game Project** in Minecraft, custom guns, games and mods.  
+- **Squid Game Project** in Minecraft, custom guns, games and plugins.  
 - **3D Modeling** for items, mobs, and structures  
 - **Custom Mechanics** and advanced system implementations with ExecutableItems, PlaceholderAPI.  
 
