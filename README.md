@@ -12,11 +12,12 @@ I am Professional with **Minecraft**, **programming**, and **3D modeling**. I ha
 
 ## Projects  
 
-- **MMORPG Server Development** in Minecraft  
+- Development of a server [Reinos Survival](https://github.com/Reinos-Studios/) MMORPG in Minecraft.
+- **Squid Game Project** in Minecraft, custom guns, games and mods.  
 - **3D Modeling** for items, mobs, and structures  
-- **Custom Mechanics** and advanced system implementations  
+- **Custom Mechanics** and advanced system implementations with ExecutableItems, PlaceholderAPI.  
 
 ## Contact  
 
-- **GitHub:** [Your GitHub](#)  
-- **Discord:** [Your Discord](#)  
+- **GitHub:** [gMihawk](#)  
+- **Discord:** [gMihawk](#)  
