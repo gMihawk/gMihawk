@@ -1,6 +1,6 @@
 ## About Me  
 
-I am a developer passionate about **Minecraft**, **programming**, and **3D modeling**. I have experience with **YML** and **MySQL** and am currently learning **Java** and **JSON**. I work with **Blockbench** and develop **MMORPG servers in Minecraft** without mods.  
+I am Professional with **Minecraft**, **programming**, and **3D modeling**. I have domain with **YML**, **Json** and **MySQL** and am currently learning **Java**. I work with **Blockbench** and develop **MMORPG servers in Minecraft** without mods.  
 
 ## Skills  
 
