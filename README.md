@@ -17,5 +17,4 @@ Sou um desenvolvedor apaixonado por Minecraft, programação e modelagem 3D. Ten
 
 ## 📫 Contato
 
-- **GitHub:** Seu GitHub
 - **Discord:** [Seu Discord]
